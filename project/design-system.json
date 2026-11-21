@@ -1,0 +1,42 @@
+{
+  "v": 3,
+  "assetGroups": {
+    "Photography": {
+      "files": {
+        "photo.jpg": {
+          "blob": "492703acdc8340208dff9f988cb3c6e0",
+          "name": "photo.jpg",
+          "size": 127681,
+          "type": "image/jpeg"
+        }
+      },
+      "name": "Photography",
+      "order": [
+        "photo.jpg"
+      ],
+      "tile": "l"
+    }
+  },
+  "blobs": {},
+  "createdOnFiles": {
+    "at": "2026-11-21T08:00:53Z",
+    "v": 1
+  },
+  "docs": {
+    "sections": []
+  },
+  "groups": [
+    "Photography"
+  ],
+  "lastChange": {
+    "at": "2026-11-21T08:00:53Z",
+    "by": "Michael",
+    "note": "Created from Modernist.zip",
+    "via": "Claude (Cowork)"
+  },
+  "layout": "files",
+  "libraries": [],
+  "namespace": "Modernist",
+  "sections": {},
+  "title": "Modernist"
+}
